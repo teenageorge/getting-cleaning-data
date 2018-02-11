@@ -1,4 +1,4 @@
-Code book:
+Code book for the course project:
 Column 1: Subject
           Subjects are numbered from1 to 30
 Column 2: Activity
