@@ -1,14 +1,16 @@
 Code book for the course project:
-Column 1: Subject
-          Subjects are numbered from1 to 30
-Column 2: Activity
+<h5>Column 1: Subject</h5>
+          <ul><li>Subjects are numbered from1 to 30</li></ul>
+<h5>Column 2: Activity</h5>
+          <ul><li>
           1 WALKING
           2 WALKING_UPSTAIRS
           3 WALKING_DOWNSTAIRS
           4 SITTING
           5 STANDING
           6 LAYING
-Columns 3 - 66: Average of various mean & SD from the Accelerometer & Gyroscope
+          </li></ul>
+<h5>Columns 3 - 66: Average of various mean & SD from the Accelerometer & Gyroscope</h5>
           tBodyAcc-mean()-X
           tBodyAcc-mean()-Y
           tBodyAcc-mean()-Z
