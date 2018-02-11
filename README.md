@@ -8,11 +8,6 @@ Demonstrate your ability to collect, work with, and clean a data set. The goal i
 <p>
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 </p>
-
-<h4>What has been done to the raw data set:</h4>
-<p>
-  The x, y and subject data sets from test and train folders are merged row-wise to create a single data set of subjects, activities and measurement data.Each of these data are then averaged group by subject and activity. The resulting data set contains six entries per subject, resulting in a unique entry per subject & activity.
-</p>
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 <h4>Here are the data for the project:</h4>
@@ -27,3 +22,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 <li>4. Appropriately labels the data set with descriptive variable names.</li>
 <li>5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
   </li></ul>
+<h4>What has been done to the raw data set:</h4>
+<p>
+  The x, y and subject data sets from test and train folders are merged row-wise to create a single data set of subjects, activities and measurement data.Each of these data are then averaged group by subject and activity. The resulting data set contains six entries per subject, resulting in a unique entry per subject & activity.
+</p>
